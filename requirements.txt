@@ -1,0 +1,21 @@
+# Core
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+tqdm
+pillow
+opencv-python
+
+# Deep Learning
+tensorflow==2.9.1
+tensorflow-addons==0.17.1
+keras
+efficientnet
+
+# Web App
+streamlit
+
+# Optional
+visualkeras

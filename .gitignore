@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large data/model files
+*.csv
+*.zip
+*.h5
+*.hdf5
+*.pth
+*.pt
+*.ckpt
+data/
