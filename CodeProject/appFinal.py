@@ -48,7 +48,7 @@ def load_models():
         'Conv2DTranspose': CustomConv2DTranspose,
         'TFOpLambda': CustomTFOpLambda
     }
-    model = load_model('D:\Data\KLTN_BrainMRI\Unet_improve\model.h5', custom_objects=custom_objects)
+    model = load_model('D:/Data/KLTN_BrainMRI/Unet_improve/model.h5', custom_objects=custom_objects)
     return model
 
 # Predict function
